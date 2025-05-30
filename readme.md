@@ -8,3 +8,4 @@
 
 * [design-patterns-for-humans](https://github.com/impocode/design-patterns-for-humans) - Ультраупрощенное объяснение шаблонов проектирования.
 * [Learn-Vim-Russian](https://github.com/impocode/Learn-Vim-Russian) - Изучение Vim и Vimscript не должно быть сложным. Это руководство, которое вы ищете.
+* [redis](https://github.com/impocode/redis) - Документация Redis на русском языке.
